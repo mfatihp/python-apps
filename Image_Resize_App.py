@@ -9,8 +9,8 @@ Required libraries:
 2. Tkinter
 
 Usage:
-In open_image() function, you have to put your desired location to 'initialdir'
-In resized() function, you have to put your desired location to 'cv.imwrite()'
+In open_image() function, you have to insert folder path you want to 'initialdir'
+In resized() function, you have to insert folder path you want to 'cv.imwrite()'
 
 """
 import cv2 as cv
